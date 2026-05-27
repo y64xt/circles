@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Command Line
+GenericName=Terminal
+Comment=Access the command line interface
+Exec=/usr/bin/flatpak run org.kde.konsole
+Icon=utilities-terminal
+Type=Application
+Categories=System;TerminalEmulator;
+Terminal=false
